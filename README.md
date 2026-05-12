@@ -1,6 +1,6 @@
-# OSINT Toolkit — Clase de Taller de Ciberseguridad
+# OSINT Toolkit — Clase de Taller de Seguridad Informática
  
-Repositorio de herramientas y recursos para la clase de OSINT dictada en la materia de Taller de Ciberseguridad, Ingeniería en Informática.
+Repositorio de herramientas y recursos para la clase de OSINT dictada en la materia de Taller de Seguridad Informática, Ingeniería en Informática.
  
 **Última actualización:** 12 de mayo de 2026
  
